@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing conflict events and fatalities in My
 
 Project Overview
 
-This project visualizes the socio-political conflict dynamics across Myanmar over a multi-year period. It is designed to help analysts, researchers, and stakeholders understand geographical distribution, temporal trends, and event categories through clean, interactive data visualizations.
+This project visualizes the socio-political conflict dynamics across Myanmar over a multi-year period. It is designed to help analysts, researchers, and stakeholders understand geographical distribution, temporal trends, and event categories through clean, interactive data visualizations. Data preprocessing and cleaning were performed using Python (Pandas) and Jupyter Notebook, transforming raw data into an insightful analytical dashboard. 
 
 
 Key Features & Dashboard Components
@@ -20,5 +20,10 @@ Key Features & Dashboard Components
 
 
 Tools & Technologies Used
-- Data Source: ACLED (Armed Conflict Location & Event Data)
-- Data Transformation & Modeling: 
+- Data Source: Kaggle (ACLED Data Feb 14, 2026)
+- Data Processing & Cleaning: Python, Jupyter Notebook, Pandas
+- Data Visualization: Power BI
+- Version Control: Git & GitHub
+
+
+
